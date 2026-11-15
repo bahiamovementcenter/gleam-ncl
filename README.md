@@ -263,3 +263,10 @@ Bump `version` in `gleam.toml` and the changelog, then push a tag `vX.Y.Z`. The 
 workflow builds the native library for each platform, attaches it to a GitHub release, writes
 the checksums into `src/ncl_nif_checksums.erl` and publishes to Hex (it needs the repository
 secret `HEXPM_API_KEY`).
+
+## Licence
+
+Copyright © 2026 Ash. Licensed under the
+[GNU Affero General Public License v3.0 only](LICENCE) (`AGPL-3.0-only`).
+
+Copies published before this change stay available under the Apache License 2.0 they had then.
