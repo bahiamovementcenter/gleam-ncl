@@ -3,7 +3,7 @@ name = "ncl_nif"
 version = "0.1.0"
 description = "Erlang NIF over nickel-embed: the in-process backend of the Gleam package ncl"
 edition = "2024"
-license = "Apache-2.0"
+license = "AGPL-3.0-only"
 repository = "https://github.com/bahiamovementcenter/gleam-ncl"
 publish = false
 
